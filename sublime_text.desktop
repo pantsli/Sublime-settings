@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Sublime
+Comment=Multi-platform code editor for Linux
+Exec=/home/fst/dev/software/sublime/sublime_text
+Icon=/home/fst/dev/software/sublime/Icon/32x32/sublime-text.png
+Type=Application
+StartupNotify=true
+Categories=TextEditor;Development;Utility;
+MimeType=text/plain;
