@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Alignment",
+		"AutoFileName",
+		"AutoPEP8",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"CSS3",
+		"CSScomb",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"Git Conflict Resolver",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JsFormat",
+		"MarkdownEditing",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pyflakes",
+		"SublimeREPL",
+		"Terminal",
+		"TypeScript Syntax",
+		"Vue Syntax Highlight",
+		"VueFormatter"
+	]
+}

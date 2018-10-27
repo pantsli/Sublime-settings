@@ -1,0 +1,4 @@
+[
+	{ "keys": ["alt+;"], "command": "run_macro_file", "args": {"file":"Packages/User/comma.sublime-macro"} },
+	{ "keys": ["alt+["], "command": "run_macro_file", "args": {"file":"Packages/User/block.sublime-macro"} }
+]
